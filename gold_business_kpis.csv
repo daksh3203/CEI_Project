@@ -1,0 +1,2 @@
+total_rides,completed_rides,cancelled_rides,completion_rate,cancellation_rate,total_revenue,avg_fare,avg_distance_km,avg_trip_duration_minutes
+150,63,87,0.42,0.58,10091.08,67.27,13.74,33.48

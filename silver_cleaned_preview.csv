@@ -1,0 +1,151 @@
+trip_id,driver_id,pickup_location,drop_location,distance_km,fare_amount,trip_status,name,city,rating,actual_start,actual_end,trip_duration_minutes,delay_minutes,completion_flag,cancellation_flag,valid_distance
+1,78,IT Park,IT Park,8.6,0.0,cancelled,Anjali_78,Delhi,5.0,2025-01-03 01:44:00,,,0.0,False,True,True
+2,114,Airport,Mall,17.54,203.08,completed,Neha_114,Bangalore,3.7,2025-01-02 04:34:00,2025-01-02 04:50:00,16.0,0.0,True,False,True
+3,132,Railway Station,Mall,17.27,213.02,completed,Priya_132,Hyderabad,4.0,2025-01-06 22:55:00,2025-01-06 23:29:00,34.0,0.0,True,False,True
+4,58,Railway Station,IT Park,20.55,185.6,completed,Priya_58,Bangalore,4.1,2025-01-07 22:14:00,2025-01-07 22:47:00,33.0,0.0,True,False,True
+5,19,IT Park,IT Park,12.47,177.11,completed,Rahul_19,Hyderabad,3.9,2025-01-05 00:15:00,2025-01-05 01:15:00,60.0,0.0,True,False,True
+6,103,Airport,IT Park,7.61,95.83,completed,Vikas_103,Bangalore,3.7,2025-01-04 22:19:00,2025-01-04 22:33:00,14.0,0.0,True,False,True
+7,57,Airport,City Center,6.05,0.0,cancelled,Priya_57,Pune,4.6,2025-01-02 02:38:00,,,0.0,False,True,True
+8,64,IT Park,City Center,23.1,204.42,completed,Amit_64,Mumbai,3.6,2025-01-06 08:45:00,2025-01-06 09:30:00,45.0,0.0,True,False,True
+9,144,City Center,City Center,15.7,0.0,cancelled,Rahul_144,Bangalore,4.4,2025-01-04 11:00:00,,,0.0,False,True,True
+10,110,IT Park,IT Park,21.1,249.72,completed,Vikas_110,Mumbai,4.5,2025-01-01 23:20:00,2025-01-01 23:47:00,27.0,0.0,True,False,True
+11,67,City Center,IT Park,19.29,0.0,cancelled,Priya_67,Pune,3.7,2025-01-02 04:15:00,,,0.0,False,True,True
+12,62,Railway Station,Mall,8.32,0.0,cancelled,Anjali_62,Mumbai,4.4,2025-01-06 14:05:00,,,0.0,False,True,True
+13,86,Railway Station,Railway Station,9.35,110.15,completed,Arjun_86,Pune,3.6,2025-01-01 18:16:00,2025-01-01 18:24:00,8.0,0.0,True,False,True
+14,99,IT Park,IT Park,17.96,232.49,completed,Rahul_99,Delhi,4.2,2025-01-04 14:23:00,2025-01-04 14:32:00,9.0,0.0,True,False,True
+15,85,IT Park,IT Park,14.48,157.98,completed,Karan_85,Mumbai,5.0,2025-01-02 08:39:00,2025-01-02 09:23:00,44.0,0.0,True,False,True
+16,150,IT Park,Airport,23.76,0.0,cancelled,Sneha_150,Pune,4.8,2025-01-07 02:27:00,,,0.0,False,True,True
+17,91,City Center,City Center,8.87,0.0,cancelled,Rahul_91,Pune,3.6,2025-01-06 14:21:00,,,0.0,False,True,True
+18,57,Airport,IT Park,13.23,0.0,cancelled,Priya_57,Pune,4.6,2025-01-07 15:21:00,,,0.0,False,True,True
+19,87,IT Park,Railway Station,17.38,236.14,completed,Vikas_87,Delhi,3.6,2025-01-01 19:12:00,2025-01-01 19:45:00,33.0,0.0,True,False,True
+20,137,Airport,IT Park,2.62,28.19,completed,Karan_137,Delhi,3.7,2025-01-03 11:24:00,2025-01-03 11:49:00,25.0,0.0,True,False,True
+21,35,IT Park,Mall,21.94,0.0,cancelled,Rahul_35,Delhi,4.8,2025-01-06 17:52:00,,,0.0,False,True,True
+22,55,Mall,IT Park,12.46,0.0,cancelled,Rohit_55,Pune,3.7,2025-01-03 01:11:00,,,0.0,False,True,True
+23,65,Mall,Railway Station,21.2,239.39,completed,Amit_65,Bangalore,3.6,2025-01-06 11:01:00,2025-01-06 11:12:00,11.0,0.0,True,False,True
+24,18,Railway Station,Railway Station,19.97,250.87,completed,Karan_18,Delhi,4.8,2025-01-02 07:01:00,2025-01-02 07:38:00,37.0,0.0,True,False,True
+25,6,Airport,City Center,16.29,0.0,cancelled,Amit_6,Pune,3.8,2025-01-03 07:07:00,,,0.0,False,True,True
+26,56,Railway Station,City Center,12.7,0.0,cancelled,Anjali_56,Pune,4.1,2025-01-04 03:39:00,,,0.0,False,True,True
+27,30,Airport,City Center,19.89,0.0,cancelled,Sneha_30,Hyderabad,3.7,2025-01-06 07:32:00,,,0.0,False,True,True
+28,7,IT Park,Railway Station,23.36,0.0,cancelled,Anjali_7,Hyderabad,3.8,2025-01-07 07:06:00,,,0.0,False,True,True
+29,20,Airport,Mall,15.62,215.77,completed,Vikas_20,Mumbai,4.1,2025-01-08 06:31:00,2025-01-08 06:46:00,15.0,0.0,True,False,True
+30,31,Mall,City Center,20.31,242.94,completed,Neha_31,Mumbai,4.6,2025-01-05 13:48:00,2025-01-05 14:11:00,23.0,0.0,True,False,True
+31,110,Airport,IT Park,17.21,0.0,cancelled,Vikas_110,Mumbai,4.5,2025-01-05 23:37:00,,,0.0,False,True,True
+32,126,Railway Station,IT Park,4.43,0.0,cancelled,Vikas_126,Hyderabad,4.7,2025-01-05 04:23:00,,,0.0,False,True,True
+33,46,City Center,City Center,18.88,0.0,cancelled,Karan_46,Pune,4.4,2025-01-08 03:15:00,,,0.0,False,True,True
+34,124,Mall,Railway Station,12.69,0.0,cancelled,Priya_124,Mumbai,5.0,2025-01-05 03:22:00,,,0.0,False,True,True
+35,23,City Center,City Center,8.42,0.0,cancelled,Anjali_23,Mumbai,3.7,2025-01-05 02:01:00,,,0.0,False,True,True
+36,98,Railway Station,IT Park,9.74,0.0,cancelled,Neha_98,Bangalore,4.2,2025-01-07 16:21:00,,,0.0,False,True,True
+37,55,City Center,Mall,10.16,0.0,cancelled,Rohit_55,Pune,3.7,2025-01-05 17:33:00,,,0.0,False,True,True
+38,143,Railway Station,IT Park,2.23,32.64,completed,Anjali_143,Mumbai,4.0,2025-01-04 04:48:00,2025-01-04 05:39:00,51.0,0.0,True,False,True
+39,126,IT Park,IT Park,14.77,0.0,cancelled,Vikas_126,Hyderabad,4.7,2025-01-03 01:03:00,,,0.0,False,True,True
+40,5,Mall,City Center,4.14,39.54,completed,Priya_5,Mumbai,4.3,2025-01-02 06:15:00,2025-01-02 06:57:00,42.0,0.0,True,False,True
+41,95,City Center,Mall,12.88,0.0,cancelled,Arjun_95,Pune,4.3,2025-01-05 07:31:00,,,0.0,False,True,True
+42,91,Railway Station,Airport,18.17,0.0,cancelled,Rahul_91,Pune,3.6,2025-01-05 19:01:00,,,0.0,False,True,True
+43,50,Railway Station,Railway Station,9.26,122.23,completed,Rahul_50,Bangalore,4.8,2025-01-08 02:29:00,2025-01-08 03:19:00,50.0,0.0,True,False,True
+44,124,Airport,Railway Station,8.36,0.0,cancelled,Priya_124,Mumbai,5.0,2025-01-04 20:32:00,,,0.0,False,True,True
+45,76,City Center,Railway Station,7.23,66.92,completed,Priya_76,Delhi,4.2,2025-01-05 14:51:00,2025-01-05 15:37:00,46.0,0.0,True,False,True
+46,71,Railway Station,IT Park,3.05,0.0,cancelled,Sneha_71,Hyderabad,4.8,2025-01-02 18:53:00,,,0.0,False,True,True
+47,27,IT Park,IT Park,22.07,0.0,cancelled,Vikas_27,Hyderabad,3.9,2025-01-07 07:44:00,,,0.0,False,True,True
+48,88,Airport,Airport,6.24,0.0,cancelled,Rohit_88,Pune,4.9,2025-01-06 03:37:00,,,0.0,False,True,True
+49,103,Railway Station,Railway Station,13.31,160.24,completed,Vikas_103,Bangalore,3.7,2025-01-05 10:48:00,2025-01-05 10:54:00,6.0,0.0,True,False,True
+50,145,Airport,City Center,23.83,204.85,completed,Rahul_145,Bangalore,4.3,2025-01-04 20:20:00,2025-01-04 20:36:00,16.0,0.0,True,False,True
+51,107,City Center,IT Park,15.95,215.89,completed,Rahul_107,Mumbai,3.9,2025-01-05 05:18:00,2025-01-05 06:12:00,54.0,0.0,True,False,True
+52,116,Mall,City Center,22.9,0.0,cancelled,Anjali_116,Delhi,3.7,2025-01-03 12:25:00,,,0.0,False,True,True
+53,16,Railway Station,Mall,16.02,211.15,completed,Arjun_16,Bangalore,4.4,2025-01-02 21:33:00,2025-01-02 21:47:00,14.0,0.0,True,False,True
+54,21,Railway Station,Airport,5.61,51.71,completed,Priya_21,Bangalore,4.6,2025-01-04 16:46:00,2025-01-04 17:45:00,59.0,0.0,True,False,True
+55,105,Airport,Railway Station,12.36,0.0,cancelled,Anjali_105,Delhi,4.5,2025-01-07 02:37:00,,,0.0,False,True,True
+56,74,Airport,Railway Station,18.26,0.0,cancelled,Priya_74,Pune,4.2,2025-01-07 11:23:00,,,0.0,False,True,True
+57,68,IT Park,Airport,20.12,248.99,completed,Arjun_68,Pune,4.2,2025-01-07 07:46:00,2025-01-07 07:53:00,7.0,0.0,True,False,True
+58,140,Railway Station,Airport,7.17,0.0,cancelled,Anjali_140,Delhi,4.1,2025-01-02 19:47:00,,,0.0,False,True,True
+59,16,IT Park,Airport,5.82,0.0,cancelled,Arjun_16,Bangalore,4.4,2025-01-05 14:52:00,,,0.0,False,True,True
+60,120,City Center,City Center,17.84,0.0,cancelled,Vikas_120,Delhi,4.8,2025-01-03 04:18:00,,,0.0,False,True,True
+61,127,Mall,City Center,12.07,0.0,cancelled,Priya_127,Bangalore,3.7,2025-01-03 05:12:00,,,0.0,False,True,True
+62,65,Mall,City Center,2.59,24.87,completed,Amit_65,Bangalore,3.6,2025-01-06 07:30:00,2025-01-06 07:37:00,7.0,0.0,True,False,True
+63,11,Mall,Railway Station,19.55,0.0,cancelled,Vikas_11,Delhi,3.6,2025-01-05 11:28:00,,,0.0,False,True,True
+64,150,IT Park,Mall,12.03,164.81,completed,Sneha_150,Pune,4.8,2025-01-04 00:51:00,2025-01-04 01:24:00,33.0,0.0,True,False,True
+65,105,Mall,IT Park,9.67,122.72,completed,Anjali_105,Delhi,4.5,2025-01-04 13:48:00,2025-01-04 14:41:00,53.0,0.0,True,False,True
+66,127,IT Park,Airport,8.63,126.14,completed,Priya_127,Bangalore,3.7,2025-01-03 23:53:00,2025-01-04 00:32:00,39.0,0.0,True,False,True
+67,81,City Center,Airport,7.81,0.0,cancelled,Amit_81,Mumbai,4.1,2025-01-04 20:30:00,,,0.0,False,True,True
+68,139,City Center,IT Park,12.63,0.0,cancelled,Vikas_139,Hyderabad,4.4,2025-01-06 16:04:00,,,0.0,False,True,True
+69,114,Mall,IT Park,19.48,183.6,completed,Neha_114,Bangalore,3.7,2025-01-03 12:58:00,2025-01-03 13:26:00,28.0,0.0,True,False,True
+70,125,Railway Station,Mall,4.79,70.95,completed,Neha_125,Hyderabad,3.5,2025-01-06 08:18:00,2025-01-06 08:52:00,34.0,0.0,True,False,True
+71,142,Airport,IT Park,2.31,25.08,completed,Sneha_142,Delhi,4.3,2025-01-05 16:16:00,2025-01-05 16:53:00,37.0,0.0,True,False,True
+72,31,City Center,Mall,16.9,0.0,cancelled,Neha_31,Mumbai,4.6,2025-01-06 02:19:00,,,0.0,False,True,True
+73,107,IT Park,City Center,21.2,315.07,completed,Rahul_107,Mumbai,3.9,2025-01-03 14:31:00,2025-01-03 15:27:00,56.0,0.0,True,False,True
+74,38,Airport,Mall,10.82,156.38,completed,Sneha_38,Pune,5.0,2025-01-02 21:47:00,2025-01-02 22:47:00,60.0,0.0,True,False,True
+75,107,Airport,Mall,9.82,0.0,cancelled,Rahul_107,Mumbai,3.9,2025-01-01 22:14:00,,,0.0,False,True,True
+76,77,Railway Station,IT Park,21.26,0.0,cancelled,Anjali_77,Delhi,3.6,2025-01-06 19:13:00,,,0.0,False,True,True
+77,138,IT Park,Mall,13.14,0.0,cancelled,Sneha_138,Bangalore,4.6,2025-01-05 13:21:00,,,0.0,False,True,True
+78,49,Railway Station,IT Park,24.56,0.0,cancelled,Arjun_49,Bangalore,4.2,2025-01-02 12:00:00,,,0.0,False,True,True
+79,12,IT Park,Railway Station,9.32,0.0,cancelled,Rahul_12,Bangalore,4.8,2025-01-07 04:52:00,,,0.0,False,True,True
+80,127,Airport,IT Park,24.19,0.0,cancelled,Priya_127,Bangalore,3.7,2025-01-02 18:02:00,,,0.0,False,True,True
+81,26,IT Park,Railway Station,14.1,157.9,completed,Amit_26,Mumbai,4.7,2025-01-02 06:54:00,2025-01-02 07:47:00,53.0,0.0,True,False,True
+82,20,City Center,IT Park,12.8,0.0,cancelled,Vikas_20,Mumbai,4.1,2025-01-04 10:29:00,,,0.0,False,True,True
+83,21,Mall,IT Park,21.59,0.0,cancelled,Priya_21,Bangalore,4.6,2025-01-07 04:10:00,,,0.0,False,True,True
+84,139,Railway Station,Airport,2.83,0.0,cancelled,Vikas_139,Hyderabad,4.4,2025-01-06 07:27:00,,,0.0,False,True,True
+85,112,IT Park,Railway Station,24.5,326.4,completed,Amit_112,Delhi,4.5,2025-01-03 20:37:00,2025-01-03 21:34:00,57.0,0.0,True,False,True
+86,77,Mall,Mall,22.78,189.57,completed,Anjali_77,Delhi,3.6,2025-01-05 07:27:00,2025-01-05 07:33:00,6.0,0.0,True,False,True
+87,96,City Center,Railway Station,11.91,0.0,cancelled,Karan_96,Mumbai,4.5,2025-01-01 22:32:00,,,0.0,False,True,True
+88,44,City Center,Railway Station,6.03,0.0,cancelled,Karan_44,Pune,4.6,2025-01-07 01:04:00,,,0.0,False,True,True
+89,128,Mall,IT Park,23.0,0.0,cancelled,Rahul_128,Hyderabad,4.8,2025-01-04 00:22:00,,,0.0,False,True,True
+90,66,Mall,City Center,17.34,0.0,cancelled,Priya_66,Bangalore,4.5,2025-01-02 06:17:00,,,0.0,False,True,True
+91,41,IT Park,Mall,3.7,0.0,cancelled,Anjali_41,Bangalore,4.7,2025-01-03 21:18:00,,,0.0,False,True,True
+92,117,IT Park,Airport,21.44,0.0,cancelled,Neha_117,Pune,3.6,2025-01-04 23:01:00,,,0.0,False,True,True
+93,61,Mall,Airport,10.77,0.0,cancelled,Rahul_61,Bangalore,3.5,2025-01-05 03:33:00,,,0.0,False,True,True
+94,102,City Center,IT Park,8.31,99.4,completed,Vikas_102,Delhi,4.8,2025-01-02 23:52:00,2025-01-03 00:05:00,13.0,0.0,True,False,True
+95,74,Railway Station,Railway Station,19.84,0.0,cancelled,Priya_74,Pune,4.2,2025-01-04 14:20:00,,,0.0,False,True,True
+96,65,Airport,Airport,17.59,229.49,completed,Amit_65,Bangalore,3.6,2025-01-06 17:00:00,2025-01-06 17:49:00,49.0,0.0,True,False,True
+97,80,Railway Station,Airport,20.14,0.0,cancelled,Rohit_80,Mumbai,4.8,2025-01-06 16:05:00,,,0.0,False,True,True
+98,76,Railway Station,City Center,9.51,103.74,completed,Priya_76,Delhi,4.2,2025-01-01 09:26:00,2025-01-01 09:36:00,10.0,0.0,True,False,True
+99,94,Mall,IT Park,14.21,204.54,completed,Amit_94,Pune,3.6,2025-01-04 05:53:00,2025-01-04 06:11:00,18.0,0.0,True,False,True
+100,76,IT Park,Airport,19.17,198.81,completed,Priya_76,Delhi,4.2,2025-01-07 13:51:00,2025-01-07 14:42:00,51.0,0.0,True,False,True
+101,37,City Center,Mall,19.35,0.0,cancelled,Sneha_37,Pune,3.6,2025-01-07 08:07:00,,,0.0,False,True,True
+102,24,IT Park,Mall,20.19,163.49,completed,Sneha_24,Bangalore,5.0,2025-01-02 14:21:00,2025-01-02 15:15:00,54.0,0.0,True,False,True
+103,68,Airport,Railway Station,15.44,0.0,cancelled,Arjun_68,Pune,4.2,2025-01-04 00:53:00,,,0.0,False,True,True
+104,121,City Center,Railway Station,2.58,0.0,cancelled,Priya_121,Mumbai,4.5,2025-01-02 17:16:00,,,0.0,False,True,True
+105,17,IT Park,Airport,16.61,0.0,cancelled,Rahul_17,Delhi,4.5,2025-01-04 01:06:00,,,0.0,False,True,True
+106,36,Airport,Airport,3.04,0.0,cancelled,Neha_36,Mumbai,4.7,2025-01-06 12:49:00,,,0.0,False,True,True
+107,61,Mall,City Center,22.41,0.0,cancelled,Rahul_61,Bangalore,3.5,2025-01-02 14:16:00,,,0.0,False,True,True
+108,108,Airport,IT Park,15.51,0.0,cancelled,Rahul_108,Pune,3.7,2025-01-07 00:29:00,,,0.0,False,True,True
+109,105,Railway Station,IT Park,23.6,0.0,cancelled,Anjali_105,Delhi,4.5,2025-01-07 10:22:00,,,0.0,False,True,True
+110,114,Mall,City Center,23.86,333.76,completed,Neha_114,Bangalore,3.7,2025-01-07 04:43:00,2025-01-07 05:24:00,41.0,0.0,True,False,True
+111,92,IT Park,Airport,3.39,33.67,completed,Priya_92,Hyderabad,3.7,2025-01-02 23:12:00,2025-01-02 23:35:00,23.0,0.0,True,False,True
+112,55,Airport,Mall,16.76,204.14,completed,Rohit_55,Pune,3.7,2025-01-01 08:25:00,2025-01-01 09:09:00,44.0,0.0,True,False,True
+113,63,Airport,City Center,24.74,334.21,completed,Amit_63,Delhi,4.6,2025-01-04 01:41:00,2025-01-04 02:22:00,41.0,0.0,True,False,True
+114,54,Mall,Railway Station,15.49,212.08,completed,Anjali_54,Mumbai,3.7,2025-01-03 11:08:00,2025-01-03 11:55:00,47.0,0.0,True,False,True
+115,1,City Center,Mall,8.38,124.76,completed,Rahul_1,Delhi,4.6,2025-01-07 06:56:00,2025-01-07 07:24:00,28.0,0.0,True,False,True
+116,45,Airport,Mall,4.53,63.72,completed,Anjali_45,Delhi,4.8,2025-01-07 07:38:00,2025-01-07 08:17:00,39.0,0.0,True,False,True
+117,61,Airport,Railway Station,15.54,0.0,cancelled,Rahul_61,Bangalore,3.5,2025-01-07 02:36:00,,,0.0,False,True,True
+118,108,IT Park,Mall,14.1,0.0,cancelled,Rahul_108,Pune,3.7,2025-01-01 13:33:00,,,0.0,False,True,True
+119,132,City Center,Airport,15.65,174.72,completed,Priya_132,Hyderabad,4.0,2025-01-06 16:22:00,2025-01-06 16:29:00,7.0,0.0,True,False,True
+120,134,Airport,IT Park,8.94,111.78,completed,Anjali_134,Hyderabad,4.5,2025-01-05 17:38:00,2025-01-05 18:06:00,28.0,0.0,True,False,True
+121,103,Airport,Airport,11.8,0.0,cancelled,Vikas_103,Bangalore,3.7,2025-01-01 12:26:00,,,0.0,False,True,True
+122,83,City Center,City Center,15.99,0.0,cancelled,Rohit_83,Bangalore,4.1,2025-01-02 02:26:00,,,0.0,False,True,True
+123,141,IT Park,City Center,18.38,0.0,cancelled,Arjun_141,Mumbai,3.9,2025-01-04 01:50:00,,,0.0,False,True,True
+124,111,IT Park,IT Park,4.28,55.27,completed,Karan_111,Pune,4.2,2025-01-02 12:18:00,2025-01-02 13:12:00,54.0,0.0,True,False,True
+125,59,IT Park,Airport,11.52,0.0,cancelled,Vikas_59,Hyderabad,4.8,2025-01-05 02:47:00,,,0.0,False,True,True
+126,81,Railway Station,IT Park,11.82,0.0,cancelled,Amit_81,Mumbai,4.1,2025-01-01 20:06:00,,,0.0,False,True,True
+127,18,Airport,Mall,4.1,0.0,cancelled,Karan_18,Delhi,4.8,2025-01-07 13:05:00,,,0.0,False,True,True
+128,34,Airport,IT Park,14.8,0.0,cancelled,Priya_34,Mumbai,4.3,2025-01-03 07:48:00,,,0.0,False,True,True
+129,91,Airport,Mall,22.09,0.0,cancelled,Rahul_91,Pune,3.6,2025-01-06 14:52:00,,,0.0,False,True,True
+130,80,Railway Station,IT Park,10.09,121.54,completed,Rohit_80,Mumbai,4.8,2025-01-06 18:40:00,2025-01-06 19:25:00,45.0,0.0,True,False,True
+131,58,Airport,Mall,21.49,0.0,cancelled,Priya_58,Bangalore,4.1,2025-01-02 20:49:00,,,0.0,False,True,True
+132,147,City Center,Mall,7.2,79.23,completed,Karan_147,Pune,3.7,2025-01-06 12:58:00,2025-01-06 13:05:00,7.0,0.0,True,False,True
+133,8,Mall,Mall,6.15,0.0,cancelled,Arjun_8,Bangalore,4.7,2025-01-03 15:02:00,,,0.0,False,True,True
+134,2,Airport,Railway Station,6.17,0.0,cancelled,Priya_2,Mumbai,3.7,2025-01-03 14:28:00,,,0.0,False,True,True
+135,8,IT Park,IT Park,4.11,0.0,cancelled,Arjun_8,Bangalore,4.7,2025-01-04 22:10:00,,,0.0,False,True,True
+136,88,City Center,City Center,5.62,0.0,cancelled,Rohit_88,Pune,4.9,2025-01-07 04:44:00,,,0.0,False,True,True
+137,22,Airport,Mall,22.32,202.87,completed,Rahul_22,Pune,4.5,2025-01-07 12:17:00,2025-01-07 12:52:00,35.0,0.0,True,False,True
+138,114,IT Park,Mall,17.22,0.0,cancelled,Neha_114,Bangalore,3.7,2025-01-01 17:59:00,,,0.0,False,True,True
+139,56,Airport,Mall,19.36,0.0,cancelled,Anjali_56,Pune,4.1,2025-01-03 12:11:00,,,0.0,False,True,True
+140,125,IT Park,City Center,14.12,143.44,completed,Neha_125,Hyderabad,3.5,2025-01-05 09:28:00,2025-01-05 10:28:00,60.0,0.0,True,False,True
+141,15,Railway Station,Mall,2.18,22.04,completed,Sneha_15,Delhi,4.3,2025-01-05 02:38:00,2025-01-05 03:00:00,22.0,0.0,True,False,True
+142,75,Railway Station,Railway Station,9.55,0.0,cancelled,Sneha_75,Mumbai,3.9,2025-01-05 12:29:00,,,0.0,False,True,True
+143,98,Airport,IT Park,14.25,0.0,cancelled,Neha_98,Bangalore,4.2,2025-01-05 21:13:00,,,0.0,False,True,True
+144,11,Mall,City Center,12.03,134.96,completed,Vikas_11,Delhi,3.6,2025-01-06 08:04:00,2025-01-06 08:33:00,29.0,0.0,True,False,True
+145,110,Mall,Airport,15.19,0.0,cancelled,Vikas_110,Mumbai,4.5,2025-01-03 11:00:00,,,0.0,False,True,True
+146,104,Mall,Airport,2.48,0.0,cancelled,Anjali_104,Bangalore,4.4,2025-01-06 23:51:00,,,0.0,False,True,True
+147,112,City Center,Airport,21.42,0.0,cancelled,Amit_112,Delhi,4.5,2025-01-07 05:47:00,,,0.0,False,True,True
+148,102,Mall,Railway Station,22.02,291.12,completed,Vikas_102,Delhi,4.8,2025-01-02 06:33:00,2025-01-02 07:24:00,51.0,0.0,True,False,True
+149,20,Mall,Mall,13.74,120.89,completed,Vikas_20,Mumbai,4.1,2025-01-02 05:33:00,2025-01-02 06:05:00,32.0,0.0,True,False,True
+150,38,Railway Station,City Center,7.43,67.06,completed,Sneha_38,Pune,5.0,2025-01-03 09:16:00,2025-01-03 09:55:00,39.0,0.0,True,False,True

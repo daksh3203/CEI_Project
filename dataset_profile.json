@@ -1,0 +1,337 @@
+{
+  "kpis": {
+    "total_rides": 150,
+    "completed_rides": 63,
+    "cancelled_rides": 87,
+    "completion_rate": 0.42,
+    "cancellation_rate": 0.58,
+    "total_revenue": 10091.08,
+    "avg_fare": 67.27,
+    "avg_distance_km": 13.74,
+    "avg_trip_duration_minutes": 33.48
+  },
+  "ride_activity": [
+    {
+      "trip_status": "cancelled",
+      "total_rides": 87
+    },
+    {
+      "trip_status": "completed",
+      "total_rides": 63
+    }
+  ],
+  "driver_activity": [
+    {
+      "driver_id": 1,
+      "name": "Rahul_1",
+      "total_rides": 1,
+      "completed_rides": 1
+    },
+    {
+      "driver_id": 2,
+      "name": "Priya_2",
+      "total_rides": 1,
+      "completed_rides": 0
+    },
+    {
+      "driver_id": 5,
+      "name": "Priya_5",
+      "total_rides": 1,
+      "completed_rides": 1
+    },
+    {
+      "driver_id": 6,
+      "name": "Amit_6",
+      "total_rides": 1,
+      "completed_rides": 0
+    },
+    {
+      "driver_id": 7,
+      "name": "Anjali_7",
+      "total_rides": 1,
+      "completed_rides": 0
+    },
+    {
+      "driver_id": 8,
+      "name": "Arjun_8",
+      "total_rides": 2,
+      "completed_rides": 0
+    },
+    {
+      "driver_id": 11,
+      "name": "Vikas_11",
+      "total_rides": 2,
+      "completed_rides": 1
+    },
+    {
+      "driver_id": 12,
+      "name": "Rahul_12",
+      "total_rides": 1,
+      "completed_rides": 0
+    },
+    {
+      "driver_id": 15,
+      "name": "Sneha_15",
+      "total_rides": 1,
+      "completed_rides": 1
+    },
+    {
+      "driver_id": 16,
+      "name": "Arjun_16",
+      "total_rides": 2,
+      "completed_rides": 1
+    }
+  ],
+  "cancel_metrics": [
+    {
+      "driver_id": 1,
+      "name": "Rahul_1",
+      "total_rides": 1,
+      "cancellations": 0,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 0.0
+    },
+    {
+      "driver_id": 2,
+      "name": "Priya_2",
+      "total_rides": 1,
+      "cancellations": 1,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 1.0
+    },
+    {
+      "driver_id": 5,
+      "name": "Priya_5",
+      "total_rides": 1,
+      "cancellations": 0,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 0.0
+    },
+    {
+      "driver_id": 6,
+      "name": "Amit_6",
+      "total_rides": 1,
+      "cancellations": 1,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 1.0
+    },
+    {
+      "driver_id": 7,
+      "name": "Anjali_7",
+      "total_rides": 1,
+      "cancellations": 1,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 1.0
+    },
+    {
+      "driver_id": 8,
+      "name": "Arjun_8",
+      "total_rides": 2,
+      "cancellations": 2,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 1.0
+    },
+    {
+      "driver_id": 11,
+      "name": "Vikas_11",
+      "total_rides": 2,
+      "cancellations": 1,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 0.5
+    },
+    {
+      "driver_id": 12,
+      "name": "Rahul_12",
+      "total_rides": 1,
+      "cancellations": 1,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 1.0
+    },
+    {
+      "driver_id": 15,
+      "name": "Sneha_15",
+      "total_rides": 1,
+      "cancellations": 0,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 0.0
+    },
+    {
+      "driver_id": 16,
+      "name": "Arjun_16",
+      "total_rides": 2,
+      "cancellations": 1,
+      "avg_delay_minutes": 0.0,
+      "cancellation_rate": 0.5
+    }
+  ],
+  "pickup_demand": [
+    {
+      "pickup_location": "Airport",
+      "total_rides": 36,
+      "completed_rides": 13,
+      "total_revenue": 2075.39
+    },
+    {
+      "pickup_location": "IT Park",
+      "total_rides": 34,
+      "completed_rides": 17,
+      "total_revenue": 3191.85
+    },
+    {
+      "pickup_location": "Railway Station",
+      "total_rides": 29,
+      "completed_rides": 14,
+      "total_revenue": 1722.94
+    },
+    {
+      "pickup_location": "Mall",
+      "total_rides": 26,
+      "completed_rides": 13,
+      "total_revenue": 2339.98
+    },
+    {
+      "pickup_location": "City Center",
+      "total_rides": 25,
+      "completed_rides": 6,
+      "total_revenue": 760.92
+    }
+  ],
+  "performance": [
+    {
+      "driver_id": 114,
+      "name": "Neha_114",
+      "total_rides": 4,
+      "completed_rides": 3,
+      "cancellations": 1,
+      "avg_distance_km": 19.525,
+      "total_revenue": 720.44,
+      "avg_trip_duration_minutes": 28.333333333333332,
+      "cancellation_rate": 0.25,
+      "performance_score": 39.022000000000006,
+      "rank": 1
+    },
+    {
+      "driver_id": 65,
+      "name": "Amit_65",
+      "total_rides": 3,
+      "completed_rides": 3,
+      "cancellations": 0,
+      "avg_distance_km": 13.793333333333331,
+      "total_revenue": 493.75,
+      "avg_trip_duration_minutes": 22.333333333333332,
+      "cancellation_rate": 0.0,
+      "performance_score": 30.6875,
+      "rank": 2
+    },
+    {
+      "driver_id": 107,
+      "name": "Rahul_107",
+      "total_rides": 3,
+      "completed_rides": 2,
+      "cancellations": 1,
+      "avg_distance_km": 15.656666666666666,
+      "total_revenue": 530.96,
+      "avg_trip_duration_minutes": 55.0,
+      "cancellation_rate": 0.3333333333333333,
+      "performance_score": 27.548000000000002,
+      "rank": 3
+    },
+    {
+      "driver_id": 76,
+      "name": "Priya_76",
+      "total_rides": 3,
+      "completed_rides": 3,
+      "cancellations": 0,
+      "avg_distance_km": 11.97,
+      "total_revenue": 369.47,
+      "avg_trip_duration_minutes": 35.666666666666664,
+      "cancellation_rate": 0.0,
+      "performance_score": 24.4735,
+      "rank": 4
+    },
+    {
+      "driver_id": 102,
+      "name": "Vikas_102",
+      "total_rides": 2,
+      "completed_rides": 2,
+      "cancellations": 0,
+      "avg_distance_km": 15.165,
+      "total_revenue": 390.52,
+      "avg_trip_duration_minutes": 32.0,
+      "cancellation_rate": 0.0,
+      "performance_score": 23.526,
+      "rank": 5
+    },
+    {
+      "driver_id": 132,
+      "name": "Priya_132",
+      "total_rides": 2,
+      "completed_rides": 2,
+      "cancellations": 0,
+      "avg_distance_km": 16.46,
+      "total_revenue": 387.74,
+      "avg_trip_duration_minutes": 20.5,
+      "cancellation_rate": 0.0,
+      "performance_score": 23.387,
+      "rank": 6
+    },
+    {
+      "driver_id": 63,
+      "name": "Amit_63",
+      "total_rides": 1,
+      "completed_rides": 1,
+      "cancellations": 0,
+      "avg_distance_km": 24.74,
+      "total_revenue": 334.21,
+      "avg_trip_duration_minutes": 41.0,
+      "cancellation_rate": 0.0,
+      "performance_score": 18.7105,
+      "rank": 7
+    },
+    {
+      "driver_id": 20,
+      "name": "Vikas_20",
+      "total_rides": 3,
+      "completed_rides": 2,
+      "cancellations": 1,
+      "avg_distance_km": 14.053333333333333,
+      "total_revenue": 336.66,
+      "avg_trip_duration_minutes": 23.5,
+      "cancellation_rate": 0.3333333333333333,
+      "performance_score": 17.833000000000002,
+      "rank": 8
+    },
+    {
+      "driver_id": 112,
+      "name": "Amit_112",
+      "total_rides": 2,
+      "completed_rides": 1,
+      "cancellations": 1,
+      "avg_distance_km": 22.96,
+      "total_revenue": 326.4,
+      "avg_trip_duration_minutes": 57.0,
+      "cancellation_rate": 0.5,
+      "performance_score": 15.32,
+      "rank": 9
+    },
+    {
+      "driver_id": 38,
+      "name": "Sneha_38",
+      "total_rides": 2,
+      "completed_rides": 2,
+      "cancellations": 0,
+      "avg_distance_km": 9.125,
+      "total_revenue": 223.44,
+      "avg_trip_duration_minutes": 49.5,
+      "cancellation_rate": 0.0,
+      "performance_score": 15.172,
+      "rank": 10
+    }
+  ],
+  "summary": {
+    "drivers_rows": 150,
+    "trips_rows": 150,
+    "trip_logs_rows": 150,
+    "silver_rows": 150
+  }
+}
